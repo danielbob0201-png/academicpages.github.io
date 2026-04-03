@@ -1,5 +1,5 @@
 ---
-# Welcome to danielbob0201-png's Academic Website
+# Welcome to Junteng Liu's Academic Website
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -10,30 +10,30 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "danielbob0201-png"
+title                    : "Junteng Liu"
 title_separator          : "-"
-name                     : &name "danielbob0201-png"
-description              : &description "Academic and research portfolio of danielbob0201-png."
-url                      : https://danielbob0201-png.github.io
+name                     : &name "Junteng Liu"
+description              : &description "Academic and research portfolio of Junteng Liu."
+url                      : https://bugmaker00.github.io
 baseurl                  : ""
-repository               : "danielbob0201-png/danielbob0201-png.github.io"
+repository               : "danielbob0201-png/bugmaker00.github.io"
 
 # Site Author
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "danielbob0201-png"
+  avatar           : "profile.png"  # Replace with your own profile picture
+  name             : "Junteng Liu"
   pronouns         :
-  bio              : "Academic and researcher at danielbob0201-png."
-  location         :
+  bio              : "First-year PhD candidate at the HKUST NLP Group. Research interests include LLM reasoning, reinforcement learning, hallucination in vision-language models, and large language model truthfulness and interpretability."
+  location         : "Hong Kong"
   employer         :
-  uri              : https://danielbob0201-png.github.io
-  email            :
+  uri              : https://bugmaker00.github.io
+  email            : jliugi@connect.ust.hk
 
   # Academic websites
   academia         :
   arxiv            :
-  googlescholar    :
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate"
   inspire-hep      :
   impactstory      :
   orcid            :
@@ -48,7 +48,7 @@ author:
   bitbucket        :
   codepen          :
   dribbble         :
-  github           : "danielbob0201-png"
+  github           : "Vicent0205"
   kaggle           :
   stackoverflow    :
 
@@ -71,7 +71,7 @@ author:
   steam            :
   telegram         :
   tumblr           :
-  twitter          :
+  twitter          : "junteng88716710"
   vine             :
   weibo            :
   wikipedia        :
