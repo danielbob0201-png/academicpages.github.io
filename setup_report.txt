@@ -1,0 +1,92 @@
+Setup Report: Junteng Liu's GitHub Pages Academic Website
+========================================================
+
+Final Repository Name
+---------------------
+danielbob0201-png/danielbob0201-png.github.io
+GitHub URL: https://github.com/danielbob0201-png/danielbob0201-png.github.io
+
+Customizations Made
+-------------------
+1) _config.yml — Updated identity fields (no remaining placeholder defaults)
+
+   url
+   - FROM: https://bugmaker00.github.io
+   - TO:   https://danielbob0201-png.github.io
+   (Memory fact: GitHub Pages site is hosted at the repository owner's .github.io domain)
+
+   repository
+   - FROM: "danielbob0201-png/bugmaker00.github.io"
+   - TO:   "danielbob0201-png/danielbob0201-png.github.io"
+   (Memory fact: repository was renamed to a GitHub Pages-style name)
+
+   employer (previously blank)
+   - TO: "HKUST NLP Group"
+   (Memory fact: Junteng Liu is a PhD candidate in the HKUST NLP Group, supervised by Prof Junxian He)
+
+   author.bio (previously generic placeholder text)
+   - TO: "First-year PhD candidate at the HKUST NLP Group. Research interests include LLM reasoning,
+     reinforcement learning, hallucination in vision-language models, and large language model truthfulness
+     and interpretability."
+   (Memory facts: PhD candidate at HKUST NLP Group; research areas = LLM Reasoning & RL,
+    Hallucination in VLMs, LLM Truthfulness & Interpretability)
+
+   author.name and title were already correctly set to "Junteng Liu"
+   author.email was already correctly set to "jliugi@connect.ust.hk"
+   author.github was already correctly set to "Vicent0205"
+   author.twitter was already correctly set to "junteng88716710"
+   author.googlescholar was already correctly set
+
+2) _pages/about.md — Rewritten as a short, structured professional homepage introduction
+   (Memory-derived facts used throughout):
+
+   - Full name & identity: Junteng Liu (刘俊腾), first-year PhD candidate in CS at HKUST
+     (Memory: First-year PhD candidate at HKUST NLP Group, Ph.D. in Computer Science 2024-Present)
+
+   - PhD advisor: Prof Junxian He, HKUST NLP Group
+     (Memory: PhD supervisor is Professor Junxian He; HKUST NLP Group leads NLP research)
+
+   - Undergraduate: B.Eng. at Shanghai Jiao Tong University (SJTU), graduated June 2024
+     (Memory: B.Eng. at SJTU 2020-2024; Graduated June 2024; Zhiyuan Honor Scholarship awarded at SJTU)
+
+   - Research focus: NLP & Machine Learning; areas = LLM reasoning & RL, VLM hallucination,
+     LLM truthfulness & interpretability
+     (Memory: Research focuses on NLP and ML; LLM Reasoning & RL; Hallucination in VLMs;
+      LLM truthfulness & interpretability)
+
+   - Publications (2023–2025): SynLogic (2025, first author), Perception Bottleneck of VLMs
+     (2025, first author), Universal Truthfulness Hyperplane Inside LLMs (EMNLP 2024,
+     first author), In-Context Sharpness as Alerts (ICML 2024, co-author),
+     C-Eval (NeurIPS 2023, co-author), Composing Parameter-Efficient Modules
+     (NeurIPS 2023, co-author)
+     (Memory: All publications with correct venues, order, and co-authors)
+
+   - Industry experience: Research Intern at MINIMAX (Feb 2025 – Present), Tencent WXG
+     (Jun–Sep 2024), Shanghai AI Lab (Jun–Dec 2023)
+     (Memory: All three research internships with correct date ranges)
+
+   - Award: Zhiyuan Honor Scholarship (Shanghai Jiao Tong University)
+     (Memory: Zhiyuan Honor Scholarship received at SJTU)
+
+   - Contact email: jliugi@connect.ust.hk
+   - GitHub: Vicent0205
+   - Google Scholar: https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ
+   - X/Twitter: @junteng88716710
+
+Memory Facts Summary
+--------------------
+The following facts retrieved from long-term memory were applied:
+  • Name: Junteng Liu (刘俊腾)
+  • Current position: First-year PhD candidate in CS (2024–Present), HKUST NLP Group
+  • Advisor: Professor Junxian He
+  • Undergraduate: B.Eng., Shanghai Jiao Tong University (2020–2024), graduated June 2024
+  • Award: Zhiyuan Honor Scholarship (SJTU)
+  • Research areas: NLP / ML; LLM Reasoning & RL; VLM Hallucination; LLM Truthfulness & Interpretability
+  • Research Internships: MINIMAX (Feb 2025–Present); Tencent WXG (Jun–Sep 2024); Shanghai AI Lab (Jun–Dec 2023)
+  • Publications (first author): SynLogic 2025; Vision4Chart/Perception Bottleneck 2025;
+    Universal Truthfulness Hyperplane (EMNLP 2024)
+  • Publications (co-author): ICML 2024; NeurIPS 2023 (×2)
+  • GitHub: https://github.com/Vicent0205
+  • Email: jliugi@connect.ust.hk
+  • Google Scholar: https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ
+  • X/Twitter: @junteng88716710

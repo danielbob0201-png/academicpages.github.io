@@ -4,8 +4,8 @@
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve -l -H localhost`. If you change this file, please restart the
-# server process.
+# `jekyll serve -l -H localhost`. If you change this file, please restart
+# the server process.
 
 # Basic Site Settings
 locale                   : "en-US"
@@ -13,10 +13,10 @@ site_theme               : "default"
 title                    : "Junteng Liu"
 title_separator          : "-"
 name                     : &name "Junteng Liu"
-description              : &description "Academic and research portfolio of Junteng Liu."
-url                      : https://bugmaker00.github.io
+description              : &description "Academic portfolio of Junteng Liu, a PhD candidate in NLP at HKUST."
+url                      : https://danielbob0201-png.github.io
 baseurl                  : ""
-repository               : "danielbob0201-png/bugmaker00.github.io"
+repository               : "danielbob0201-png/danielbob0201-png.github.io"
 
 # Site Author
 author:
@@ -26,8 +26,8 @@ author:
   pronouns         :
   bio              : "First-year PhD candidate at the HKUST NLP Group. Research interests include LLM reasoning, reinforcement learning, hallucination in vision-language models, and large language model truthfulness and interpretability."
   location         : "Hong Kong"
-  employer         :
-  uri              : https://bugmaker00.github.io
+  employer         : "HKUST NLP Group"
+  uri              : https://danielbob0201-png.github.io
   email            : jliugi@connect.ust.hk
 
   # Academic websites
