@@ -1,0 +1,32 @@
+Site Setup Report
+================
+
+Final Repository Name: danielbob0201-png/bugmaker00.github.io
+
+Files Updated:
+1. _config.yml
+   - Updated site URL to: https://bugmaker00.github.io
+   - Updated repository reference to: danielbob0201-png/bugmaker00.github.io
+   - Set name, description, bio, email (jliugi@connect.ust.hk), GitHub handle (Vicent0205),
+     Google Scholar (tbK9jl4AAAAJ), Twitter (junteng88716710), location (Hong Kong)
+
+2. _pages/about.md
+   - Rewritten with Junteng Liu verified identity: Ph.D. candidate at HKUST NLP Group
+   - Added research interests (LLM reasoning, RL for reasoning, hallucination in VLMs, LLM truthfulness)
+   - Added publications (SynLogic/NeurIPS2025, VLMs Chart/EMNLP2025, Universal Truthfulness/EMNLP2024,
+     In-Context Sharpness/ICML2024, C-Eval/NeurIPS2023, Module Arithmetic/NeurIPS2023)
+   - Added experience table (MiniMax, Tencent WXG, Shanghai AI Lab)
+   - Added contact section with email, GitHub, Google Scholar, and X/Twitter
+
+3. _data/cv.json
+   - Replaced all template placeholders with Junteng Liu verified academic data
+   - Basics: name, label (Ph.D. CS Candidate), email (jliugi@cse.ust.hk), website (vicent0205.github.io),
+     location (Hong Kong), Google Scholar and GitHub profiles
+   - Education: B.Eng. Automation (IEEE Honor Class) from SJTU (2020-2024);
+                Ph.D. CSE at HKUST (2024-present)
+   - Work: Research Intern at MINIMAX (Feb 2025-Feb 2026),
+            Tencent WXG (Jun-Sep 2024),
+            Shanghai AI Lab (Jun-Dec 2023)
+   - Publications: 6 listed (NeurIPS x2, EMNLP x2, ICML x1, plus arXiv preprints)
+   - Skills, languages (Chinese native, English fluent), interests (NLP/LLMs/Agentic AI/VLMs),
+     and project links added
