@@ -1,0 +1,42 @@
+Site Setup Summary
+==================
+
+REPOSITORY INFORMATION
+----------------------
+Repository Name: danielbob0201-png/danielbob0201-png.github.io
+Repository URL:  https://github.com/danielbob0201-png/danielbob0201-png.github.io
+Repository Type: Fork of academicpages/academicpages.github.io (GitHub Pages user site)
+
+CUSTOMIZATION COMMIT
+--------------------
+Latest customization commit SHA: 86e8ab7d530956659d1903d172d88550e0ea7ebb
+Commit Message: "Personalize site: update _pages/about.md with Junteng Liu profile and publications"
+Commit Author:  danielbob0201-png
+Commit Date:    2026-04-03
+
+UPDATED FILES
+-------------
+1. _config.yml
+   - Site title: "Junteng Liu"
+   - Site description: First-year PhD candidate at HKUST NLP Group
+   - Author name: Junteng Liu
+   - Author bio: First-year PhD candidate at HKUST NLP Group, research in NLP and machine learning
+   - Author email: jliugi@connect.ust.hk
+   - GitHub profile: Vicent0205
+   - Google Scholar: https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate
+   - Twitter: @junteng88716710
+   - URL: https://danielbob0201-png.github.io
+
+2. _pages/about.md
+   - Title: "Junteng Liu — PhD Candidate at HKUST NLP Group"
+   - First-year PhD candidate at HKUST NLP Group (supervised by Professor Junxian He)
+   - B.Eng. from Shanghai Jiao Tong University (SJTU), graduated June 2024
+   - Research interests: LLM Reasoning and Reinforcement Learning, Hallucination in Vision-Language Models (VLM), LLM Truthfulness and Interpretability
+   - Publications (including SynLogic 2025, VLM Perception Bottleneck 2025, Universal Truthfulness Hyperplane EMNLP 2024, C-Eval NeurIPS 2023, etc.)
+   - Research experience: MINIMAX (Feb 2025–Present), Tencent WXG (Jun 2024–Sep 2024), Shanghai AI Lab (Jun 2023–Dec 2023)
+
+ADDITIONAL CHANGES (prior commits)
+-----------------------------------
+- Prior commit 7532d7d0ab: "Personalize site: update _config.yml with Junteng Liu profile"
+- Prior commit c8942e8d39: "Replace template copy in _pages/about.md with personal homepage introduction"
+- Prior commit a7e6961232: "Personalize site identity in _config.yml (title, name, bio, github)"
