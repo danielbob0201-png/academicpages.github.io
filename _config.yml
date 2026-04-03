@@ -1,5 +1,5 @@
 ---
-# Welcome to Junteng Liu's Academic Website
+# Welcome to danielbob0201-png's Academic Website
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -10,10 +10,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Junteng Liu"
+title                    : "danielbob0201-png"
 title_separator          : "-"
-name                     : &name "Junteng Liu"
-description              : &description "Junteng Liu — First-year PhD candidate at HKUST NLP Group. Research on natural language processing, machine learning, LLM reasoning, hallucination in vision-language models, and truthfulness."
+name                     : &name "danielbob0201-png"
+description              : &description "Academic and research portfolio of danielbob0201-png."
 url                      : https://danielbob0201-png.github.io
 baseurl                  : ""
 repository               : "danielbob0201-png/danielbob0201-png.github.io"
@@ -22,18 +22,18 @@ repository               : "danielbob0201-png/danielbob0201-png.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Junteng Liu"
-  pronouns         : "he/him"
-  bio              : "First-year PhD candidate at HKUST NLP Group. Research focuses on natural language processing, machine learning, LLM reasoning, hallucination in vision-language models, and LLM truthfulness & interpretability."
-  location         : "Hong Kong"
+  name             : "danielbob0201-png"
+  pronouns         :
+  bio              : "Academic and researcher at danielbob0201-png."
+  location         :
   employer         :
   uri              : https://danielbob0201-png.github.io
-  email            : jliugi@connect.ust.hk
+  email            :
 
   # Academic websites
   academia         :
   arxiv            :
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate"
+  googlescholar    :
   inspire-hep      :
   impactstory      :
   orcid            :
@@ -48,7 +48,7 @@ author:
   bitbucket        :
   codepen          :
   dribbble         :
-  github           : "Vicent0205"
+  github           : "danielbob0201-png"
   kaggle           :
   stackoverflow    :
 
@@ -71,7 +71,7 @@ author:
   steam            :
   telegram         :
   tumblr           :
-  twitter          : "junteng88716710"
+  twitter          :
   vine             :
   weibo            :
   wikipedia        :
