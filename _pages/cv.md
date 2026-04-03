@@ -9,56 +9,35 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Education
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Ph.D in Computer Science**, Hong Kong University of Science and Technology (HKUST), 2024-Present
+  * NLP Group, advised by Prof. Junxian He
+* **B.Eng. in Computer Science**, Shanghai Jiao Tong University (SJTU), 2020-2024
+  * Graduated in June 2024
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Research Experience
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Research Intern**, MINIMAX, Feb 2025 – Present
+* **Research Intern**, Tencent WXG, Jun 2024 – Sep 2024
+  * Advisor: Zifei Shan
+* **Research Intern**, Shanghai AI Lab, Jun 2023 – Dec 2023
+  * Advisor: Prof. Yu Cheng
 
-Publications
-======
+## Publications
+
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
+
+## Selected Awards
+
+* Zhiyuan Honor Scholarship, Shanghai Jiao Tong University
+
+{% if site.teaching.size > 0 %}
+## Teaching
+
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+{% endif %}

@@ -5,9 +5,9 @@ title                    : "Junteng Liu"
 title_separator          : "-"
 name                     : &name "Junteng Liu"
 description              : &description "Junteng Liu's academic portfolio"
-url                      : https://vicent0205.github.io
-baseurl                  : ""
-repository               : "danielbob0201-png/Vicent0205.github.io"
+url                      : https://danielbob0201-png.github.io/bugmaker00.github.io
+baseurl                  : "/bugmaker00.github.io"
+repository               : "danielbob0201-png/bugmaker00.github.io"
 
 # Site Author
 author:
@@ -20,15 +20,56 @@ author:
   uri              :
   email            : "jliugi@connect.ust.hk"
 
-  # Academic and social links
+  # Academic websites
+  academia         :
+  arxiv            :
   googlescholar    : "https://scholar.google.com/citations?user=tbK9jl4AAAAJ"
-  twitter          : "junteng88716710"
-  github           : "Vicent0205"
-  linkedin         :
-  researchgate     :
+  inspire-hep      :
+  impactstory      :
+  orcid            :
   semantic         :
+  ssrn             :
+  pubmed           :
+  researchgate     :
+  scopus           :
+  zotero           :
 
-# Publications
+  # Repositories and software development
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  github           : "Vicent0205"
+  kaggle           :
+  stackoverflow    :
+
+  # Social media
+  artstation       :
+  bluesky          :
+  facebook         :
+  flickr           :
+  foursquare       :
+  goodreads        :
+  google_plus      :
+  keybase          :
+  instagram        :
+  lastfm           :
+  linkedin         :
+  mastodon         :
+  medium           :
+  pinterest        :
+  soundcloud       :
+  steam            :
+  telegram         :
+  tumblr           :
+  twitter          : "junteng88716710"
+  vine             :
+  weibo            :
+  wikipedia        :
+  xing             :
+  youtube          :
+  zhihu            :
+
+# Publications Category
 publication_category:
   books:
     title: 'Books'
@@ -133,9 +174,7 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 markdown: kramdown
 highlighter: rouge
 lsi: false
-excerpt_separator: "
-
-"
+excerpt_separator: "\n\n"
 incremental: false
 
 # Markdown Processing
