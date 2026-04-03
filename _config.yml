@@ -5,16 +5,16 @@ title                    : "Junteng Liu"
 title_separator          : "-"
 name                     : &name "Junteng Liu"
 description              : &description "Junteng Liu's academic portfolio"
-url                      : https://danielbob0201-png.github.io/bugmaker00.github.io
-baseurl                  : "/bugmaker00.github.io"
-repository               : "danielbob0201-png/bugmaker00.github.io"
+url                      : https://danielbob0201-png.github.io
+baseurl                  : ""
+repository               : "danielbob0201-png/danielbob0201-png.github.io"
 
 # Site Author
 author:
   avatar           : "profile.png"
   name             : "Junteng Liu"
   pronouns         :
-  bio              : "First-year PhD candidate at HKUST NLP Group, advised by Prof. Junxian He. My research focuses on natural language processing and machine learning, with interests in LLM reasoning and reinforcement learning, hallucination in vision-language models, and LLM truthfulness and interpretability."
+  bio              : "First-year PhD candidate at HKUST NLP Group, advised by Prof. Junxian He. Research focuses on NLP and machine learning, with interests in LLM reasoning and reinforcement learning, hallucination in vision-language models, and LLM truthfulness and interpretability."
   location         : "Hong Kong"
   employer         : "HKUST NLP Group"
   uri              :
