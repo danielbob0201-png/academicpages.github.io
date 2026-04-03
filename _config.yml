@@ -9,7 +9,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default"
+site_theme               : "jekyll-theme-minimal"
 title                    : "Junteng Liu"
 title_separator          : "-"
 name                     : &name "Junteng Liu"
@@ -26,6 +26,7 @@ author:
   pronouns         :
   bio              : "First-year PhD candidate at the HKUST NLP Group. Research interests include LLM reasoning, reinforcement learning, hallucination in vision-language models, and large language model truthfulness and interpretability."
   location         : "Hong Kong"
+  education        : "B.Eng., Shanghai Jiao Tong University (2020-2024); PhD, HKUST (2024-Present)"
   employer         : "HKUST NLP Group"
   uri              : https://bugmaker00.github.io
   email            : jliugi@connect.ust.hk
