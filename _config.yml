@@ -16,7 +16,7 @@ name                     : &name "Junteng Liu"
 description              : &description "Academic portfolio of Junteng Liu, a PhD candidate in NLP at HKUST."
 url                      : https://vicent0205.github.io
 baseurl                  : ""
-repository               : "Vicent0205/bugmaker00.github.io"
+repository               : "Vicent0205/academicpages.github.io"
 
 # Site Author
 author:
