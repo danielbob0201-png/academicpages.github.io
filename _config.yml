@@ -14,9 +14,9 @@ title                    : "Junteng Liu"
 title_separator          : "-"
 name                     : &name "Junteng Liu"
 description              : &description "Academic portfolio of Junteng Liu, a PhD candidate in NLP at HKUST."
-url                      : https://danielbob0201-png.github.io
+url                      : https://vicent0205.github.io
 baseurl                  : ""
-repository               : "danielbob0201-png/bugmaker00.github.io"
+repository               : "Vicent0205/bugmaker00.github.io"
 
 # Site Author
 author:
@@ -28,7 +28,7 @@ author:
   location         : "Hong Kong"
   education        : "B.Eng., Shanghai Jiao Tong University (2020-2024); PhD, HKUST (2024-Present)"
   employer         : "HKUST NLP Group"
-  uri              : https://danielbob0201-png.github.io
+  uri              : https://vicent0205.github.io
   email            : jliugi@connect.ust.hk
 
   # Academic websites
@@ -166,7 +166,7 @@ exclude:
   - .sass-cache
   - assets/js/_main.js
   - assets/js/plugins
-  - assets/js/vendor
+  - assets/js/_vendor
   - CHANGELOG
   - Capfile
   - config
@@ -277,6 +277,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+      comments: true
 
 # Sass/SCSS
 sass:
@@ -318,4 +319,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
