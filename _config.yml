@@ -1,36 +1,39 @@
-# Welcome to bugmaker00's Academic Website
+---
+# Welcome to Junteng Liu's Academic Website
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve -l -H localhost`. If you change this file, please restart the 
+# `jekyll serve -l -H localhost`. If you change this file, please restart the
 # server process.
 
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "bugmaker00"
+title                    : "Junteng Liu"
 title_separator          : "-"
-name                     : &name "bugmaker00"
-description              : &description "bugmaker00 — builder, researcher, and software engineer"
-url                      : https://bugmaker00.github.io
+name                     : &name "Junteng Liu"
+description              : &description "Junteng Liu — First-year PhD candidate at HKUST NLP Group. Research on natural language processing, machine learning, LLM reasoning, hallucination in vision-language models, and truthfulness."
+url                      : https://danielbob0201-png.github.io
 baseurl                  : ""
-repository               : "danielbob0201-png/bugmaker00.github.io"
+repository               : "danielbob0201-png/danielbob0201-png.github.io"
 
 # Site Author
 author:
+  # Biographic information
   avatar           : "profile.png"
-  name             : "bugmaker00"
-  pronouns         : "they/them"
-  bio              : "Builder and researcher at the intersection of software engineering and artificial intelligence. Interested in systems, tools, and the limits of what code can do."
-  location         : "Earth"
+  name             : "Junteng Liu"
+  pronouns         : "he/him"
+  bio              : "First-year PhD candidate at HKUST NLP Group. Research focuses on natural language processing, machine learning, LLM reasoning, hallucination in vision-language models, and LLM truthfulness & interpretability."
+  location         : "Hong Kong"
   employer         :
-  uri              :
-  email            :
+  uri              : https://danielbob0201-png.github.io
+  email            : jliugi@connect.ust.hk
 
+  # Academic websites
   academia         :
   arxiv            :
-  googlescholar    :
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate"
   inspire-hep      :
   impactstory      :
   orcid            :
@@ -41,19 +44,40 @@ author:
   scopus           :
   zotero           :
 
+  # Repositories and software development
   bitbucket        :
   codepen          :
   dribbble         :
-  github           : "danielbob0201-png"
+  github           : "Vicent0205"
   kaggle           :
   stackoverflow    :
 
+  # Social media
+  artstation       :
+  bluesky          :
+  facebook         :
+  flickr           :
+  foursquare       :
+  goodreads        :
+  google_plus      :
+  keybase          :
   instagram        :
+  lastfm           :
   linkedin         :
   mastodon         :
   medium           :
+  pinterest        :
+  soundcloud       :
+  steam            :
   telegram         :
-  twitter          :
+  tumblr           :
+  twitter          : "junteng88716710"
+  vine             :
+  weibo            :
+  wikipedia        :
+  xing             :
+  youtube          :
+  zhihu            :
 
 # Publication Category
 publication_category:
@@ -131,13 +155,12 @@ analytics:
 include:
   - .htaccess
   - _pages
-  - files
+  - .github
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
   - .bundle
-  - .github
   - .jekyll-assets-cache
   - .sass-cache
   - assets/js/_main.js
@@ -183,7 +206,7 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-# Collections
+# These settings control the types of collections used by the template
 collections:
   teaching:
     output: true
@@ -198,8 +221,9 @@ collections:
     output: true
     permalink: /:collection/:path/
 
-# Defaults
+# These settings control how pages and collections are included in the site
 defaults:
+  # _posts
   - scope:
       path: ""
       type: posts
@@ -210,12 +234,14 @@ defaults:
       comments: true
       share: true
       related: true
+  # _pages
   - scope:
       path: ""
       type: pages
     values:
       layout: single
       author_profile: true
+  # _teaching
   - scope:
       path: ""
       type: teaching
@@ -224,6 +250,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _publications
   - scope:
       path: ""
       type: publications
@@ -232,6 +259,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _portfolio
   - scope:
       path: ""
       type: portfolio
@@ -240,6 +268,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
+  # _talks
   - scope:
       path: ""
       type: talks
