@@ -14,9 +14,9 @@ title                    : "Junteng Liu"
 title_separator          : "-"
 name                     : &name "Junteng Liu"
 description              : &description "Academic portfolio of Junteng Liu, a PhD candidate in NLP at HKUST."
-url                      : https://danielbob0201-png.github.io
+url                      : https://bugmaker00.github.io
 baseurl                  : ""
-repository               : "danielbob0201-png/danielbob0201-png.github.io"
+repository               : "danielbob0201-png/bugmaker00.github.io"
 
 # Site Author
 author:
@@ -27,7 +27,7 @@ author:
   bio              : "First-year PhD candidate at the HKUST NLP Group. Research interests include LLM reasoning, reinforcement learning, hallucination in vision-language models, and large language model truthfulness and interpretability."
   location         : "Hong Kong"
   employer         : "HKUST NLP Group"
-  uri              : https://danielbob0201-png.github.io
+  uri              : https://bugmaker00.github.io
   email            : jliugi@connect.ust.hk
 
   # Academic websites
