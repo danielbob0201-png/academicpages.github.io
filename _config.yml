@@ -1,29 +1,36 @@
-# Site Settings
+# Welcome to Junteng Liu's Academic Website
+#
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# `jekyll serve -l -H localhost`. If you change this file, please restart the 
+# server process.
+
+# Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
 title                    : "Junteng Liu"
 title_separator          : "-"
 name                     : &name "Junteng Liu"
 description              : &description "Junteng Liu's academic portfolio"
-url                      : https://danielbob0201-png.github.io
+url                      : https://bugmaker00.github.io
 baseurl                  : ""
-repository               : "danielbob0201-png/danielbob0201-png.github.io"
+repository               : "danielbob0201-png/bugmaker00.github.io"
 
 # Site Author
 author:
   avatar           : "profile.png"
   name             : "Junteng Liu"
   pronouns         :
-  bio              : "First-year PhD candidate at HKUST NLP Group, advised by Prof. Junxian He. Research focuses on NLP and machine learning, with interests in LLM reasoning and reinforcement learning, hallucination in vision-language models, and LLM truthfulness and interpretability."
+  bio              : "First-year PhD candidate at HKUST NLP Group. Researching natural language processing, machine learning, LLM reasoning, and vision-language model hallucination."
   location         : "Hong Kong"
-  employer         : "HKUST NLP Group"
+  employer         : "Hong Kong University of Science and Technology"
   uri              :
   email            : "jliugi@connect.ust.hk"
 
-  # Academic websites
   academia         :
   arxiv            :
-  googlescholar    : "https://scholar.google.com/citations?user=tbK9jl4AAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate"
   inspire-hep      :
   impactstory      :
   orcid            :
@@ -34,7 +41,6 @@ author:
   scopus           :
   zotero           :
 
-  # Repositories and software development
   bitbucket        :
   codepen          :
   dribbble         :
@@ -42,34 +48,14 @@ author:
   kaggle           :
   stackoverflow    :
 
-  # Social media
-  artstation       :
-  bluesky          :
-  facebook         :
-  flickr           :
-  foursquare       :
-  goodreads        :
-  google_plus      :
-  keybase          :
   instagram        :
-  lastfm           :
   linkedin         :
   mastodon         :
   medium           :
-  pinterest        :
-  soundcloud       :
-  steam            :
   telegram         :
-  tumblr           :
   twitter          : "junteng88716710"
-  vine             :
-  weibo            :
-  wikipedia        :
-  xing             :
-  youtube          :
-  zhihu            :
 
-# Publications Category
+# Publication Category
 publication_category:
   books:
     title: 'Books'
@@ -84,8 +70,17 @@ breadcrumbs              : false
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled"
+talkmap_link             : false
 comments:
   provider               :
+  disqus:
+    shortname            :
+  discourse:
+    server               :
+  facebook:
+    appid                :
+    num_posts            :
+    colorscheme          :
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages"
@@ -128,7 +123,7 @@ social:
 
 # Analytics
 analytics:
-  provider               : "false"
+  provider               :  "false"
   google:
     tracking_id          :
 
@@ -168,7 +163,7 @@ keep_files:
   - .git
   - .svn
 encoding: "utf-8"
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+markdown_ext: "markdown,mkdown,mkd,md"
 
 # Conversion
 markdown: kramdown
@@ -271,6 +266,7 @@ plugins:
   - jekyll-redirect-from
   - jemoji
 
+# Mimic GitHub Pages with --safe
 whitelist:
   - jekyll-feed
   - jekyll-gist
@@ -279,6 +275,7 @@ whitelist:
   - jekyll-redirect-from
   - jemoji
 
+# Archives
 category_archive:
   type: liquid
   path: /categories/
@@ -286,6 +283,7 @@ tag_archive:
   type: liquid
   path: /tags/
 
+# HTML Compression
 compress_html:
   clippings: all
   ignore:
