@@ -1,4 +1,4 @@
-# Welcome to Junteng Liu's Academic Website
+# Welcome to bugmaker00's Academic Website
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Junteng Liu"
+title                    : "bugmaker00"
 title_separator          : "-"
-name                     : &name "Junteng Liu"
-description              : &description "Junteng Liu's academic portfolio"
+name                     : &name "bugmaker00"
+description              : &description "bugmaker00 — builder, researcher, and software engineer"
 url                      : https://bugmaker00.github.io
 baseurl                  : ""
 repository               : "danielbob0201-png/bugmaker00.github.io"
@@ -20,17 +20,17 @@ repository               : "danielbob0201-png/bugmaker00.github.io"
 # Site Author
 author:
   avatar           : "profile.png"
-  name             : "Junteng Liu"
-  pronouns         :
-  bio              : "First-year PhD candidate at HKUST NLP Group. Researching natural language processing, machine learning, LLM reasoning, and vision-language model hallucination."
-  location         : "Hong Kong"
-  employer         : "Hong Kong University of Science and Technology"
+  name             : "bugmaker00"
+  pronouns         : "they/them"
+  bio              : "Builder and researcher at the intersection of software engineering and artificial intelligence. Interested in systems, tools, and the limits of what code can do."
+  location         : "Earth"
+  employer         :
   uri              :
-  email            : "jliugi@connect.ust.hk"
+  email            :
 
   academia         :
   arxiv            :
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate"
+  googlescholar    :
   inspire-hep      :
   impactstory      :
   orcid            :
@@ -44,7 +44,7 @@ author:
   bitbucket        :
   codepen          :
   dribbble         :
-  github           : "Vicent0205"
+  github           : "danielbob0201-png"
   kaggle           :
   stackoverflow    :
 
@@ -53,7 +53,7 @@ author:
   mastodon         :
   medium           :
   telegram         :
-  twitter          : "junteng88716710"
+  twitter          :
 
 # Publication Category
 publication_category:
