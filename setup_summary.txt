@@ -1,36 +1,108 @@
-setup_summary
-==============
-Date: 2026-04-03
+setup_summary.txt
+=================
 
-Repository
-----------
-Source forked  : academicpages/academicpages.github.io
-Fork renamed to: danielbob0201-png/bugmaker00.github.io
-GitHub Pages URL: https://bugmaker00.github.io
+REPOSITORY SETUP SUMMARY
+========================
+Date: 2026-04-04
 
-Profile Details Found in Long-Term Memory
-------------------------------------------
-No profile details were found in long-term memory (memory_search failed due to
-an API key authentication error: "Incorrect API key provided").
-All identity values were set to generic placeholders reflecting the "bugmaker00"
-identity, with GitHub account "danielbob0201-png" derived from the
-authenticated session (get_me tool result: login=danielbob0201-png).
+Source Forked
+-------------
+Source repository: academicpages/academicpages.github.io
+  (GitHub Pages template — https://github.com/academicpages/academicpages.github.io)
 
-Files Initialized / Updated
----------------------------
-1. _config.yml
-   - Set title, name, and description to "bugmaker00"
-   - Updated repository field to "danielbob0201-png/bugmaker00.github.io"
-   - Updated author bio, location (Earth), pronouns (they/them), and GitHub
-     username (danielbob0201-png)
-   - Cleared employer, email, academia, and social link fields for owner to
-     fill in as desired
+Fork Created and Renamed
+------------------------
+Fork owner    : danielbob0201-png
+Fork name     : bugmaker00.github.io
+Repository URL: https://github.com/danielbob0201-png/bugmaker00.github.io
+GitHub Pages  : https://bugmaker00.github.io
 
-2. _pages/about.md
-   - Replaced Junteng Liu's academic bio with a concise personal homepage
-     introduction for bugmaker00 (builder/researcher at SE+AI intersection)
-   - Kept standard Academic Pages front-matter (permalink, title, redirects)
-     and footer credits
+PROFILE DETAILS FOUND IN LONG-TERM MEMORY
+==========================================
+The following profile details were retrieved from /workspace/agent_workspace/memory/memory.json:
 
-3. setup_summary.txt (this file)
-   - Documents the memory-check results and all files initialized/updated
+  Name              : Junteng Liu
+  Current Position  : First-year PhD candidate in Computer Science at HKUST NLP Group
+                       (Hong Kong University of Science and Technology), 2024–Present
+  Advisor           : Professor Junxian He (HKUST NLP Group)
+  Undergraduate     : B.Eng. at Shanghai Jiao Tong University (SJTU), 2020–2024,
+                       graduated June 2024; Zhiyuan Honor Scholarship recipient
+  Research Focus    : Natural Language Processing and Machine Learning
+  Research Interests:
+                     • LLM Reasoning and Reinforcement Learning
+                     • Hallucination in Vision-Language Models (VLM)
+                     • LLM Truthfulness and Interpretability
+  Email             : jliugi@connect.ust.hk
+  GitHub            : https://github.com/danielbob0201-png
+  Google Scholar    : https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ
+  X (Twitter)       : @junteng88716710
+  LinkedIn / Other  : (not recorded in memory)
+
+Research Positions
+------------------
+  • Research Intern — MINIMAX        (February 2025 – Present)
+  • Research Intern — Tencent WXG    (June 2024 – September 2024)
+  • Research Intern — Shanghai AI Lab (June 2023 – December 2023)
+
+Selected Publications
+---------------------
+  • SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical
+    Reasoning and Beyond (2025) — First author
+  • On the Perception Bottleneck of VLMs for Chart Understanding (2025) — First author
+  • On the Universal Truthfulness Hyperplane Inside LLMs (EMNLP 2024) — First author
+  • In-Context Sharpness as Alerts: An Inner Representation Perspective for
+    Hallucination Mitigation (ICML 2024) — Co-author
+  • C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation
+    Models (NeurIPS 2023) — Co-author
+  • Composing Parameter-Efficient Modules with Arithmetic Operations (NeurIPS 2023)
+    — Co-author
+
+FILES INITIALIZED / UPDATED
+============================
+The following files were modified or added in the bugmaker00.github.io repository:
+
+1. _config.yml  (updated — site identity fields personalized)
+   -------------------------------------------
+   Key changes:
+   • title        : "Junteng Liu"
+   • name         : "Junteng Liu"
+   • description  : "Junteng Liu's academic portfolio"
+   • url          : "https://bugmaker00.github.io"          [UPDATED]
+   • repository   : "danielbob0201-png/bugmaker00.github.io" [UPDATED]
+   • author.name  : "Junteng Liu"
+   • author.bio   : "First-year PhD candidate at HKUST NLP Group researching
+                     natural language processing and machine learning. Interested
+                     in LLM reasoning, vision-language models, and model
+                     interpretability."
+   • author.pronouns: "he/him"
+   • author.location: "Hong Kong"
+   • author.employer: "HKUST NLP Group"
+   • author.uri   : "https://bugmaker00.github.io"          [UPDATED]
+   • author.email : "jliugi@connect.ust.hk"
+   • author.avatar: "profile.png"
+   • author.github: "danielbob0201-png"
+   • author.googlescholar: "https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate"
+   • author.twitter : "junteng88716710"
+
+2. _pages/about.md  (replaced generic template copy with personal homepage introduction)
+   ----------------------------------------------------------------------
+   Key content:
+   • Headline   : "Hello, I'm Junteng Liu"
+   • PhD status : First-year PhD candidate at HKUST NLP Group (Prof. Junxian He)
+   • B.Eng.     : Shanghai Jiao Tong University (SJTU), graduated June 2024
+   • Research Interests:
+       – LLM Reasoning and Reinforcement Learning
+       – Hallucination in Vision-Language Models (VLM)
+       – LLM Truthfulness and Interpretability
+   • Selected Publications: SynLogic (2025), Perception Bottleneck of VLMs (2025),
+     Universal Truthfulness Hyperplane (EMNLP 2024), In-Context Sharpness as Alerts
+     (ICML 2024), C-Eval (NeurIPS 2023), Composing Parameter-Efficient Modules
+     (NeurIPS 2023)
+   • Work Experience: MINIMAX, Tencent WXG, Shanghai AI Lab
+   • Contact: email, GitHub (danielbob0201-png), Google Scholar,
+     X/Twitter (@junteng88716710)
+
+3. setup_summary.txt  (created — this file)
+   ----------------------------------------
+   Documents which profile details were found in memory and which files were
+   initialized during the site setup.
