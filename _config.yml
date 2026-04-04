@@ -11,21 +11,19 @@ baseurl: ''
 repository: Vicent0205/academicpages.github.io
 
 author:
- Haiti was first to visit  We can ask you to help us with the translation to other languages and then post it on a website  and then</cookie></Cookie>  in the other hand   du </existing> I 
-
-avatar: profile.png
-name: Junteng Liu
-pronouns: he/him
-bio: >-
-  First-year PhD candidate at HKUST NLP Group researching natural language processing
-  and machine learning. Interested in LLM reasoning and reinforcement learning,
-  hallucination in vision-language models, and LLM truthfulness and interpretability.
-location: Hong Kong
-employer: HKUST NLP Group
-uri: https://vicent0205.github.io
-email: jliugi@connect.ust.hk
-googlescholar: https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate
-twitter: junteng88716710
+  avatar: profile.png
+  name: Junteng Liu
+  pronouns: he/him
+  bio: >-
+    First-year PhD candidate at HKUST NLP Group researching natural language processing
+    and machine learning. Interested in LLM reasoning and reinforcement learning,
+    hallucination in vision-language models, and LLM truthfulness and interpretability.
+  location: Hong Kong
+  employer: HKUST NLP Group
+  uri: https://vicent0205.github.io
+  email: jliugi@connect.ust.hk
+  googlescholar: https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate
+  twitter: junteng88716710
 
 publication_category:
   books:
@@ -81,7 +79,6 @@ google_site_verification: null
 bing_site_verification: null
 alexa_site_verification: null
 yandex_site_verification: null
-
 twitter:
   username: junteng88716710
 facebook:
