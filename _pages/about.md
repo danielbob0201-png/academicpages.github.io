@@ -10,7 +10,7 @@ redirect_from:
 
 # Hello, I'm Junteng Liu
 
-I am a first-year PhD candidate at the [HKUST NLP Group](https://hkust-nlp.github.io/), advised by [Prof. Junxian He](https://jkjung.com/). I received my B.Eng. from [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/) in June 2024.
+I am a first-year PhD candidate at the [HKUST NLP Group](https://hkust-nlp.github.io/), advised by [Prof. Junxian He](https://jkjung.com/). I received my B.Eng. from [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn/) in June 2024. You can find more about my work at [danielbob0201-png.github.io](https://danielbob0201-png.github.io).
 
 ## Research Interests
 
@@ -37,4 +37,4 @@ My research focuses on natural language processing and machine learning. In part
 
 ## Contact
 
-Feel free to reach out via [email](mailto:jliugi@connect.ust.hk) or find me on [GitHub](https://github.com/Vicent0205), [Google Scholar](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate), or [X (Twitter)](https://twitter.com/junteng88716710).
+Feel free to reach out via [email](mailto:jliugi@connect.ust.hk) or find me on [GitHub](https://github.com/danielbob0201-png), [Google Scholar](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate), or [X (Twitter)](https://twitter.com/junteng88716710).
