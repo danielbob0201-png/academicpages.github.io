@@ -6,9 +6,9 @@ name: Junteng Liu
 description: >-
   Personal academic homepage of Junteng Liu, a PhD candidate at HKUST NLP
   Group working on NLP, ML, LLM reasoning, vision-language models, and model interpretability.
-url: https://bugmaker00.github.io
+url: https://vicent0205.github.io
 baseurl: ''
-repository: danielbob0201-png/bugmaker00.github.io
+repository: danielbob0201-png/academicpages.github.io
 
 author:
   avatar: profile.png
@@ -20,10 +20,11 @@ author:
     hallucination in vision-language models, and LLM truthfulness and interpretability.
   location: Hong Kong
   employer: HKUST NLP Group
-  uri: https://bugmaker00.github.io
+  uri: https://vicent0205.github.io
   email: jliugi@connect.ust.hk
   googlescholar: https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate
   twitter: junteng88716710
+  github: Vicent0205
 
 publication_category:
   books:
