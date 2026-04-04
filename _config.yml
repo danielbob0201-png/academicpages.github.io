@@ -3,64 +3,30 @@ site_theme: default
 title: Junteng Liu
 title_separator: '-'
 name: Junteng Liu
-description: Personal academic homepage of Junteng Liu, a PhD candidate at HKUST NLP
+description: >-
+  Personal academic homepage of Junteng Liu, a PhD candidate at HKUST NLP
   Group working on NLP, ML, LLM reasoning, vision-language models, and model interpretability.
-url: https://bugmaker00.github.io
+url: https://vicent0205.github.io
 baseurl: ''
-repository: danielbob0201-png/bugmaker00.github.io
+repository: Vicent0205/academicpages.github.io
+
 author:
-  avatar: profile.png
-  name: Junteng Liu
-  pronouns: he/him
-  bio: First-year PhD candidate at HKUST NLP Group researching natural language processing
-    and machine learning. Interested in LLM reasoning and reinforcement learning,
-    hallucination in vision-language models, and LLM truthfulness and interpretability.
-  location: Hong Kong
-  employer: HKUST NLP Group
-  uri: https://bugmaker00.github.io
-  email: jliugi@connect.ust.hk
-  academia: null
-  arxiv: https://arxiv.org/search/?searchtype=author&query=Junteng+Liu
-  googlescholar: https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate
-  inspire-hep: null
-  impactstory: null
-  orcid: null
-  semantic: null
-  ssrn: null
-  pubmed: null
-  researchgate: null
-  scopus: null
-  zotero: null
-  bitbucket: null
-  codepen: null
-  dribbble: null
-  github: Vicent0205
-  kaggle: null
-  stackoverflow: null
-  bluesky: null
-  facebook: null
-  flickr: null
-  foursquare: null
-  goodreads: null
-  google_plus: null
-  keybase: null
-  instagram: null
-  lastfm: null
-  linkedin: null
-  mastodon: null
-  medium: null
-  pinterest: null
-  soundcloud: null
-  steam: null
-  telegram: null
-  tumblr: null
-  twitter: junteng88716710
-  vine: null
-  weibo: null
-  wikipedia: null
-  xing: null
-  youtube: null
-  zhihu: null
+ Haiti was first to visit  We can ask you to help us with the translation to other languages and then post it on a website  and then</cookie></Cookie>  in the other hand   du </existing> I 
+
+avatar: profile.png
+name: Junteng Liu
+pronouns: he/him
+bio: >-
+  First-year PhD candidate at HKUST NLP Group researching natural language processing
+  and machine learning. Interested in LLM reasoning and reinforcement learning,
+  hallucination in vision-language models, and LLM truthfulness and interpretability.
+location: Hong Kong
+employer: HKUST NLP Group
+uri: https://vicent0205.github.io
+email: jliugi@connect.ust.hk
+googlescholar: https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate
+twitter: junteng88716710
+
 publication_category:
   books:
     title: Books
@@ -68,7 +34,8 @@ publication_category:
     title: Journal Articles
   conferences:
     title: Conference Papers
-teaser: null
+
+teaser:
 breadcrumbs: false
 words_per_minute: 160
 future: true
@@ -114,6 +81,7 @@ google_site_verification: null
 bing_site_verification: null
 alexa_site_verification: null
 yandex_site_verification: null
+
 twitter:
   username: junteng88716710
 facebook:
@@ -130,6 +98,7 @@ analytics:
   provider: 'false'
   google:
     tracking_id: null
+
 include:
 - .htaccess
 - _pages
@@ -166,14 +135,13 @@ keep_files:
 - .svn
 encoding: utf-8
 markdown_ext: markdown,mkdown,mkdn,mkd,md
+
 markdown: kramdown
 highlighter: rouge
 lsi: false
-excerpt_separator: '
-
-
-  '
+excerpt_separator: '\n\n'
 incremental: false
+
 kramdown:
   input: GFM
   hard_wrap: false
@@ -189,6 +157,7 @@ kramdown:
   - 6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
+
 collections:
   teaching:
     output: true
@@ -202,6 +171,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+
 defaults:
 - scope:
     path: ''
@@ -251,11 +221,13 @@ defaults:
     author_profile: true
     share: true
     comments: true
+
 sass:
   sass_dir: _sass
   style: compressed
 permalink: /:categories/:title/
 timezone: Etc/UTC
+
 plugins:
 - jekyll-feed
 - jekyll-gist
@@ -263,6 +235,7 @@ plugins:
 - jekyll-sitemap
 - jekyll-redirect-from
 - jemoji
+
 whitelist:
 - jekyll-feed
 - jekyll-gist
@@ -270,12 +243,14 @@ whitelist:
 - jekyll-sitemap
 - jekyll-redirect-from
 - jemoji
+
 category_archive:
   type: liquid
   path: /categories/
 tag_archive:
   type: liquid
   path: /tags/
+
 compress_html:
   clippings: all
   ignore:
