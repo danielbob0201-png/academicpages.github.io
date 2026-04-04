@@ -1,7 +1,7 @@
 # Junteng Liu – Academic Website
 **Personal academic and research portfolio hosted on GitHub Pages.**
 
-This site is built from the [Academic Pages](https://github.com/academicpages/academicpages.github.io) template.
+This site is built from the [Academic Pages](https://github.com/academicpages/bugmaker00.github.io) template.
 
 ## About
 
@@ -46,4 +46,4 @@ The local server will be available at http://localhost:4000.
 
 ## Credits
 
-Powered by [Academic Pages](https://github.com/academicpages/academicpages.github.io), a GitHub Pages template for academic and research portfolios, originally maintained by the Academic Pages community.
+Powered by [Academic Pages](https://github.com/academicpages/bugmaker00.github.io), a GitHub Pages template for academic and research portfolios, originally maintained by the Academic Pages community.
