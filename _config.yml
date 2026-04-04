@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Junteng Liu"
 title_separator          : "-"
 name                     : &name "Junteng Liu"
-description              : &description "Junteng Liu's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Personal academic homepage of Junteng Liu — PhD candidate at HKUST NLP Group, researching natural language processing, machine learning, LLM reasoning, vision-language models, and model interpretability."
 url                      : https://bugmaker00.github.io
 baseurl                  : ""
 repository               : "danielbob0201-png/bugmaker00.github.io"
@@ -28,7 +28,13 @@ author:
   bio              : "First-year PhD candidate at HKUST NLP Group researching natural language processing and machine learning. Interested in LLM reasoning, vision-language models, and model interpretability."
   location         : "Hong Kong"
   employer         : "HKUST NLP Group"
+ hydraulic:         : "Hong Kong University of Science and Technology"
   uri              : "https://bugmaker00.github.io"
+  education        :
+    1:
+      courses: B.Eng. in Computer Science (2020-2024)
+      institution: Shanghai Jiao Tong University
+      year: 2024
   email            : "jliugi@connect.ust.hk" 
 
   # Academic websites
@@ -50,14 +56,14 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "danielbob0201-png"
+  github           : "Vicent0205"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  artstation       : # Username
   bluesky          : # URL
-  facebook         : # Username
+  facebook         : "junteng.liu"
+ Silence|
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
@@ -65,21 +71,21 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # URL
+  linkedin         : #https://www.linkedin.com/in/junteng-liu/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
-  steam            : # Username
+  steam            :# Username
   telegram         : # URL
-  tumblr           : # Username
+  tumblr           :# Username
   twitter          : "junteng88716710"
-  vine             : # Username
-  weibo            : # Username
-  wikipedia        : # Username
-  xing             : # Username
-  youtube          : # Username
-  zhihu            : # URL
+  vine             :# Username
+  weibo            :# URL
+  wikipedia        :# Username
+  xing             :# Username
+  youtube          :# Username
+  zhihu            :# URL
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
@@ -137,9 +143,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &twitter junteng88716710
 facebook:
-  username               :
+  username              :
   app_id                 :
   publisher              :
 og_image                 :  # Social media default site image
@@ -195,7 +201,7 @@ keep_files:
   - .git
   - .svn
 encoding: "utf-8"
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+markdown_ext: "markdown,mkdown,mkd,md,markdown"
 
 
 # Conversion
@@ -329,7 +335,7 @@ whitelist:
 #  - GitHub Pages compatible archive pages built with Liquid > type: liquid (default)
 #  - Jekyll Archives plugin archive pages > type: jekyll-archives
 #  Path (examples)
-#  - Archive page should exist at path when using the liquid method or you can
+#  - Archive page should exist at path when you use the liquid method or you can
 #    expect broken links (especially with breadcrumbs enabled)
 #  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
 #  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
@@ -348,7 +354,7 @@ tag_archive:
 #   layouts:
 #     category: archive-taxonomy
 #     tag: archive-taxonomy
-#   permalinks:
+#  permalinks:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
