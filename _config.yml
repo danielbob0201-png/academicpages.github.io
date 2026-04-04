@@ -13,9 +13,9 @@ title                    : "Junteng Liu"
 title_separator          : "-"
 name                     : &name "Junteng Liu"
 description              : &description "Junteng Liu's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://bugmaker00.github.io
+url                      : https://danielbob0201-png.github.io
 baseurl                  : ""
-repository               : "danielbob0201-png/bugmaker00.github.io"
+repository               : "danielbob0201-png/danielbob0201-png.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -28,7 +28,7 @@ author:
   bio              : "First-year PhD candidate at HKUST NLP Group researching natural language processing and machine learning. Interested in LLM reasoning, vision-language models, and model interpretability."
   location         : "Hong Kong"
   employer         : "HKUST NLP Group"
-  uri              : "https://bugmaker00.github.io"
+  uri              : "https://danielbob0201-png.github.io"
   email            : "jliugi@connect.ust.hk" 
 
   # Academic websites
@@ -50,7 +50,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "Vicent0205"
+  github           : "danielbob0201-png"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
