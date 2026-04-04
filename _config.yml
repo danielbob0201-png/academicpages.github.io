@@ -28,7 +28,6 @@ author:
   bio              : "First-year PhD candidate at HKUST NLP Group researching natural language processing and machine learning. Interested in LLM reasoning, vision-language models, and model interpretability."
   location         : "Hong Kong"
   employer         : "HKUST NLP Group"
- hydraulic:         : "Hong Kong University of Science and Technology"
   uri              : "https://bugmaker00.github.io"
   education        :
     1:
@@ -143,7 +142,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter junteng88716710
+  username               : junteng88716710 junteng88716710
 facebook:
   username              :
   app_id                 :
